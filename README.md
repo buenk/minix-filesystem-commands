@@ -1,5 +1,5 @@
 # MINIX Filesystem Commands
-An implementation in python of various terminal commands to interact with the MINIX v1 filesystem. The following commands are implemented:  
+An implementation in python of various terminal commands to interact with the MINIX v1 filesystem. The implementation only works for direct data blocks. The following commands are implemented:  
 - `ls` lists all the files in the root directory.  
 - `cat` lists the content of a file in any directory.  
 - `touch` creates an empty file in the root directory.  
