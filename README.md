@@ -5,8 +5,7 @@ An implementation in python of various terminal commands to interact with the MI
 - `touch` creates an empty file in the root directory.  
 - `mkdir` creates an empty directory in the root directory.
 
-## Testing locally
-Usage:  
+## Usage
 1. Create a MINIX disk image:  
 ```
 dd if=/dev/zero of=disk1.img bs=1k count=1024
