@@ -3,7 +3,7 @@ An implementation in python of various terminal commands to interact with the MI
 - `ls` lists all the files in the root directory.  
 - `cat` lists the content of a file in any directory.  
 - `touch` creates an empty file in the root directory.  
-- `mkdir` creates an empty directory in the root directory.
+- `mkdir` creates an empty directory in the root directory.  
 You can read the file  'extended_introduction_to_minix_v1.pdf' for more context.  
 ## Usage
 1. Create a MINIX disk image:  
